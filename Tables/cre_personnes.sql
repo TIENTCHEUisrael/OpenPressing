@@ -3,10 +3,10 @@ PROMPT **************** CREATE PERSONNES TABLES *************
 CREATE TABLE IF NOT EXISTS PERSONNES 
 (
    ID_PERSONNE          NUMBER(10),
-   NOM                  VARCHAR2(255),
-   EMAIL                VARCHAR2(255),
-   PHONENUMBER          VARCHAR2(255),
-   PASSWORD             VARCHAR2(255)                   
+   NOM                  VARCHAR(255),
+   EMAIL                VARCHAR(255),
+   PHONENUMBER          VARCHAR(255),
+   PASSWORD             VARCHAR(255)                   
 );
 
 ALTER TABLE PERSONNES
