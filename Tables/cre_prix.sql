@@ -1,0 +1,1 @@
+PROMPT ******************* CREATE PRICE TABLES *****************

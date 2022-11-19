@@ -73,5 +73,8 @@ PROMPT
 
 @Insertions/op_popul.sql
 
+PROMPT
+PROMPT ************* FINISH **********************************************
+PROMPT
 
 SPOOL off

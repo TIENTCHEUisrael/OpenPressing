@@ -1,0 +1,1 @@
+PROMPT ******************* POPUL VALEURATTRIBUT TABLES *****************

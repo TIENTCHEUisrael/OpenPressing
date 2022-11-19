@@ -1,0 +1,1 @@
+PROMPT ******************* POPUL TYPELINGE TABLES *****************

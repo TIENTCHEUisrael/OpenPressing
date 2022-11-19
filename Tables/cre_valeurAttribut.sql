@@ -1,2 +1,2 @@
-PROMPT ***************** CREATE VALEUR TABLE **************************
+PROMPT ***************** CREATE VALEUR ATTRIBUT TABLE **************************
 

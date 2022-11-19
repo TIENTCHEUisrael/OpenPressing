@@ -1,0 +1,1 @@
+PROMPT ******************* CREATE PRIVILEGES TABLES *****************
