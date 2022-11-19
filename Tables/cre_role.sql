@@ -1,1 +1,16 @@
 PROMPT ******************* CREATE ROLE TABLES *****************
+CREATE IF NOT EXISTS TABLE ROLE
+(
+   ID_PRESSING          NUMBER(10) ,
+   ID_USER             VARCHAR(10),
+   NOM                  VARCHAR(255)
+);
+alter table ROLES
+  ADD constraint FK_ROLES_REFERENCE_PRESSING 
+      FOREIGN KEY (ID_PRESSING)
+            REFERENCES PRESSINGS (ID_PRESSING);
+
+alter table ROLES
+  ADD constraint FK_ROLES_REFERENCE_UTILISAT 
+      FOREIGN KEY (ID_USER)
+            REFERENCES UTILISATEUR (ID_USER);
