@@ -6,4 +6,4 @@ CREATE TABLE IF NOT EXISTS  ROLES
    NOM                  VARCHAR(255)
 );
 
-@constraints/constr_role.sql
+@C:\OpenPressing\Tables\constraints\constraints/constr_role.sql

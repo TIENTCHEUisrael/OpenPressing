@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS  UTILISATEUR
 );
 
 
-@constraints/constr_utilisateur.sql
+@C:\OpenPressing\Tables\constraints\constr_utilisateur.sql

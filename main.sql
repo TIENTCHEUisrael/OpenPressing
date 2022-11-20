@@ -65,13 +65,13 @@ PROMPT
 -- create tables and constraint
 --
 
-@Tables/op_cre.sql
+@C:\OpenPressing\Tables\op_cre.sql
 
 -- 
 -- populate tables
 --
 
-@Insertions/op_popul.sql
+@C:\OpenPressing\Insertions\op_popul.sql
 
 PROMPT
 PROMPT ************* FINISH **********************************************

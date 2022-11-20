@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS PERSONNESPHYSIQUE
 );
 
 
-@constraints/constr_personnesp.sql
+@C:\OpenPressing\Tables\constraints\constr_personnesp.sql

@@ -9,5 +9,5 @@ CREATE TABLE IF NOT EXISTS ADRESSES
    LONGITUDE            double(10)
 );
 
-@constraints/constr_addresses.sql
+@C:\OpenPressing\Tables\constraints\constr_addresses.sql
 

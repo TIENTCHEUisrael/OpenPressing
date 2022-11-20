@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS ATTRIBUTS
    CARACTERISTIQUE      varchar(255)                   
 );
 
-@constraints/constr_attributs.sql
+@C:\OpenPressing\Tables\constraints\constr_attributs.sql

@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS  SERVICES
     NOM                  varchar(255)  
 );
 
-@constraints/constr_services.sql
+@C:\OpenPressing\Tables\constraints\constr_services.sql

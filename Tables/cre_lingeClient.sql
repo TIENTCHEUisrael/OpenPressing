@@ -9,4 +9,4 @@ CREATE TABLE IF NOT EXISTS LINGECLIENT
    IMAGE                varbinary(2000)
 );
 
-@constraints/constr_lingeClient.sql
+@C:\OpenPressing\Tables\constraints\constr_lingeClient.sql
