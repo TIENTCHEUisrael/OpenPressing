@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE UTILISATEUR TABLES *****************
 
-CREATE TABLE IF NOT EXISTS  UTILISATEUR
+CREATE TABLE   UTILISATEUR
 (
     ID_USER              NUMBER(10),
     ID_PERSPHY           NUMBER(10) 

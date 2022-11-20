@@ -1,6 +1,6 @@
 PROMPT ***************** CREATE VALEUR ATTRIBUT TABLE **************************
 
-CREATE TABLE IF NOT EXISTS  VALEURATTRIBUTS
+CREATE TABLE   VALEURATTRIBUTS
 (
     ID_ATTRIBUT          NUMBER(10),                  
     VALEUR               varchar(255)

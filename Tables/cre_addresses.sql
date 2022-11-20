@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE ADRESSES TABLES *****************
 
-CREATE TABLE IF NOT EXISTS ADRESSES 
+CREATE TABLE ADRESSES 
 (
    ID_ADRESSE           NUMBER(10),
    ID_BESOIN            NUMBER(10)                    ,

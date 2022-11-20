@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE PRESSING TABLES *****************
 
-CREATE IF NOT EXISTS TABLE PRESSINGS 
+CREATE TABLE PRESSINGS 
 (
    ID_PRESSING          NUMBER(10) ,
    ID_USER              VARCHAR(10),

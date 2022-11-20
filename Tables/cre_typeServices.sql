@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE TYPESERVICES TABLES *****************
 
-CREATE TABLE IF NOT EXISTS  TYPESERVICES
+CREATE TABLE   TYPESERVICES
 (
     ID_TYPESERVICE       number(10),                  
     NOM                  varchar(255)  

@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE ANNONCES TABLES *****************
 
-CREATE TABLE IF NOT EXISTS ANNONCES 
+CREATE TABLE  ANNONCES 
 (
    ID_ANNOCES           NUMBER(10)                    ,
    ID_USER              char(10)                       ,

@@ -3,7 +3,7 @@ PROMPT
 
 
 
-@C:/OpenPressing/Tables/C:/OpenPressing/Tables/cre_addresses.sql
+@C:/OpenPressing/Tables/cre_addresses.sql
 
 @C:/OpenPressing/Tables/cre_annonces.sql
 

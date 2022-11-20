@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE PRIVILEGES TABLES *****************
 
-CREATE TABLE IF NOT EXISTS  PRIVILEGES 
+CREATE TABLE  PRIVILEGES 
 (
    ID_PRIVILEGE         NUMBER(10),
    DESCRIPTION          VARCHAR(255)                   

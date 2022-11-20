@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE ATTRIBUTS TABLES *****************
 
-CREATE TABLE IF NOT EXISTS ATTRIBUTS 
+CREATE TABLE  ATTRIBUTS 
 (
    ID_ATTRIBUT          NUMBER(10),
    ID_TYPESERVICE        NUMBER(10)                    ,

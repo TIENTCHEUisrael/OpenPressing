@@ -1,6 +1,6 @@
 PROMPT ******************* CREATE SERVICES TABLES *****************
 
-CREATE TABLE IF NOT EXISTS  SERVICES
+CREATE TABLE   SERVICES
 (
     ID_SERVICES          number(10),
     ID_TYPESERVICE       number(10),
