@@ -1,14 +1,10 @@
 PROMPT ******************* CREATE TYPELINGE TABLES *****************
 
-CREATE IF NOT EXISTS TABLE TYPELINGE
+CREATE TABLE IF NOT EXISTS  TYPELINGE
 (
-    ID_TYPELINGE         number(10),                   not null,
+    ID_TYPELINGE         number(10),
     NOM                  varchar(255)  
 );
 
-ALTER TABLE TYPELINGE
-ADD
-(
-    CONSTRAINT TYPELINGE_PK
-    PRIMARY KEY (ID_TYPELINGE)
-);
+
+@constraints/constr_typeLinge.sql

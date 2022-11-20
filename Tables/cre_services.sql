@@ -1,22 +1,10 @@
 PROMPT ******************* CREATE SERVICES TABLES *****************
 
-CREATE IF NOT EXISTS TABLE SERVICES
+CREATE TABLE IF NOT EXISTS  SERVICES
 (
-    ID_SERVICES          number(10)                    not null,
-    ID_TYPESERVICE       number(10)                    null,
+    ID_SERVICES          number(10),
+    ID_TYPESERVICE       number(10),
     NOM                  varchar(255)  
 );
 
-ALTER TABLE SERVICES
-ADD
-(
-    CONSTRAINT SERVICE_PK
-    PRIMARY KEY (ID_SERVICE)
-);
-
-ALTER TABLE SERVICES
-ADD 
-CONSTRAINT FK_SERVICE
-FOREIGN KEY (ID_SERVICE)
-REFERENCES 
-TYPESERVICES (ID_TYPESERVICE);
+@constraints/constr_services.sql

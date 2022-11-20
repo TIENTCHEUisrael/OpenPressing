@@ -10,14 +10,4 @@ CREATE IF NOT EXISTS TABLE PRESSINGS
    FERMETURE            TIMESTAMP   
 );
 
-alter table PRESSINGS
-  ADD (constraint PRESSING_pk 
-      PRIMARY KEY  (ID_PRESSING)
- );
-
-alter table PRESSINGS
-   ADD constraint FK_PRESSING_REFERENCE_UTILISATEUR 
-        FOREIGN KEY (ID_USER)
-              REFERENCES UTILISATEUR (ID_USER);
-
-
+@constraints/constr_pressing.sql

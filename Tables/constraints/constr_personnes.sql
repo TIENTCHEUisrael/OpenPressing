@@ -1,0 +1,5 @@
+
+ALTER TABLE PERSONNES
+ADD ( CONSTRAINT personne_pk
+        	 PRIMARY KEY (ID_PERSONNE) 
+    ) ;

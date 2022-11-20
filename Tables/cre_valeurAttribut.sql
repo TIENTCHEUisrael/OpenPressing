@@ -2,13 +2,10 @@ PROMPT ***************** CREATE VALEUR ATTRIBUT TABLE **************************
 
 CREATE IF NOT EXISTS TABLE VALEURATTRIBUTS
 (
-    ID_ATTRIBUT          NUMBER(10),                  null,
+    ID_ATTRIBUT          NUMBER(10),                  
     VALEUR               varchar(255)
 );
 
-ALTER TABLE VALEURATTRIBUTS
-ADD
-(
-    CONSTRAINT VALEURATTIBUT_PK
-    PRIMARY KEY (ID_ATTRIBUT)
-);
+
+
+@constraints/constr_valeurAttribut.sql

@@ -9,7 +9,4 @@ CREATE TABLE IF NOT EXISTS PERSONNES
    PASSWORD             VARCHAR(255)                   
 );
 
-ALTER TABLE PERSONNES
-ADD ( CONSTRAINT personne_pk
-        	 PRIMARY KEY (ID_PERSONNE) 
-    ) ;
+@constraints/constr_personnes.sql

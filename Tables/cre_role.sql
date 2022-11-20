@@ -5,12 +5,5 @@ CREATE IF NOT EXISTS TABLE ROLE
    ID_USER             VARCHAR(10),
    NOM                  VARCHAR(255)
 );
-alter table ROLES
-  ADD constraint FK_ROLES_REFERENCE_PRESSING 
-      FOREIGN KEY (ID_PRESSING)
-            REFERENCES PRESSINGS (ID_PRESSING);
 
-alter table ROLES
-  ADD constraint FK_ROLES_REFERENCE_UTILISATEUR 
-      FOREIGN KEY (ID_USER)
-            REFERENCES UTILISATEUR (ID_USER);
+@constraints/constr_role.sql
