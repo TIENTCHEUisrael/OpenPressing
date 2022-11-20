@@ -3,42 +3,42 @@ PROMPT
 
 
 
-@cre_addresses.sql
+@C:/OpenPressing/Tables/C:/OpenPressing/Tables/cre_addresses.sql
 
-@cre_annonces.sql
+@C:/OpenPressing/Tables/cre_annonces.sql
 
-@cre_attributs.sql
+@C:/OpenPressing/Tables/cre_attributs.sql
 
-@cre_besoin_client_pressing.sql
+@C:/OpenPressing/Tables/cre_besoin_client_pressing.sql
 
-@cre_besoinclient.sql
+@C:/OpenPressing/Tables/cre_besoinclient.sql
 
-@cre_clients.sql
+@C:/OpenPressing/Tables/cre_clients.sql
 
-@cre_lingeClient.sql
+@C:/OpenPressing/Tables/cre_lingeClient.sql
 
-@cre_offres.sql
+@C:/OpenPressing/Tables/cre_offres.sql
 
-@cre_personnes.sql
+@C:/OpenPressing/Tables/cre_personnes.sql
 
-@cre_personnesp.sql
+@C:/OpenPressing/Tables/cre_personnesp.sql
 
-@cre_pressing.sql
+@C:/OpenPressing/Tables/cre_pressing.sql
 
-@cre_privileges.sql
+@C:/OpenPressing/Tables/cre_privileges.sql
 
-@cre_prix.sql
+@C:/OpenPressing/Tables/cre_prix.sql
 
-@cre_promo.sql
+@C:/OpenPressing/Tables/cre_promo.sql
 
-@cre_role.sql
+@C:/OpenPressing/Tables/cre_role.sql
 
-@cre_services.sql
+@C:/OpenPressing/Tables/cre_services.sql
 
-@cre_typeLinge.sql
+@C:/OpenPressing/Tables/cre_typeLinge.sql
 
-@cre_typeServices.sql
+@C:/OpenPressing/Tables/cre_typeServices.sql
 
-@cre_utilisateur.sql
+@C:/OpenPressing/Tables/cre_utilisateur.sql
 
-@cre_valeurAttribut.sql
+@C:/OpenPressing/Tables/cre_valeurAttribut.sql
