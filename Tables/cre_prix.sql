@@ -1,5 +1,5 @@
 PROMPT ******************* CREATE PRICE TABLES *****************
-CREATE IF NOT EXISTS TABLE PRIX 
+CREATE TABLE IF NOT EXISTS  PRIX 
 (
    MONTANT              double(10) 
 );

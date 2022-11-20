@@ -1,5 +1,5 @@
-PROMPT ******************* CREATE ROLE TABLES *****************
-CREATE IF NOT EXISTS TABLE ROLE
+PROMPT ******************* CREATE ROLES TABLES *****************
+CREATE TABLE IF NOT EXISTS  ROLES
 (
    ID_PRESSING          NUMBER(10) ,
    ID_USER             VARCHAR(10),
