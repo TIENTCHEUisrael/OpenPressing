@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS OFFRES
    DESCRIPTION          VARCHAR(255)                   
 );
 
-@C:\OpenPressing\Tables\constraints\constr_offres.sql
+@C:/OpenPressing/Tables/constraints/constr_offres.sql

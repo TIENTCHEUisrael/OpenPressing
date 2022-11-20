@@ -6,6 +6,6 @@ CREATE IF NOT EXISTS TABLE CLIENTS
    ID_PERSONNE          NUMBER(10)             
 );
 
-@C:\OpenPressing\Tables\constraints\constr_clients.sql
+@C:/OpenPressing/Tables/constraints/constr_clients.sql
 
 

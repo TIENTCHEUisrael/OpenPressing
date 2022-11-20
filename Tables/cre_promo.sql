@@ -5,4 +5,4 @@ create table PROMO
    CODEPROMO           VARCHAR(255) 
 );
 
-@C:\OpenPressing\Tables\constraints\constr_promo.sql
+@C:/OpenPressing/Tables/constraints/constr_promo.sql

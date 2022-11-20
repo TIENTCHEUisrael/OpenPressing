@@ -7,5 +7,5 @@ CREATE TABLE IF NOT EXISTS  PRIVILEGES
 );
 
 
-@C:\OpenPressing\Tables\constraints\constr_privileges.sql
+@C:/OpenPressing/Tables/constraints/constr_privileges.sql
 

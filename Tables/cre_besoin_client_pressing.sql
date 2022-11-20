@@ -7,4 +7,4 @@ create table BESOIN_CLIENT_PRESSINGS
 );
 
 
-@C:\OpenPressing\Tables\constraints\constr_besoin_client_pressing.sql
+@C:/OpenPressing/Tables/constraints/constr_besoin_client_pressing.sql

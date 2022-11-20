@@ -10,4 +10,4 @@ create table BESOINSCLIENT
    STATUT               varchar(255)                   
 );
 
-@C:\OpenPressing\Tables\constraints\constr_besoinclient.sql
+@C:/OpenPressing/Tables/constraints/constr_besoinclient.sql

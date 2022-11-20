@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS  VALEURATTRIBUTS
 
 
 
-@C:\OpenPressing\Tables\constraints\constr_valeurAttribut.sql
+@C:/OpenPressing/Tables/constraints/constr_valeurAttribut.sql

@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS  TYPESERVICES
 );
 
 
-@C:\OpenPressing\Tables\constraints\constr_typeServices.sql
+@C:/OpenPressing/Tables/constraints/constr_typeServices.sql

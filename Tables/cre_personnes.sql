@@ -9,4 +9,4 @@ CREATE TABLE IF NOT EXISTS PERSONNES
    PASSWORD             VARCHAR(255)                   
 );
 
-@C:\OpenPressing\Tables\constraints\constr_personnes.sql
+@C:/OpenPressing/Tables/constraints/constr_personnes.sql

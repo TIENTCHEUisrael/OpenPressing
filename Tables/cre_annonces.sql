@@ -9,4 +9,4 @@ CREATE TABLE IF NOT EXISTS ANNONCES
    DUREE                timestamp                      
 );
 
-@C:\OpenPressing\Tables\constraints\constr_annonces.sql
+@C:/OpenPressing/Tables/constraints/constr_annonces.sql

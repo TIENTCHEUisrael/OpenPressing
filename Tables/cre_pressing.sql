@@ -10,4 +10,4 @@ CREATE IF NOT EXISTS TABLE PRESSINGS
    FERMETURE            TIMESTAMP   
 );
 
-@C:\OpenPressing\Tables\constraints\constr_pressing.sql
+@C:/OpenPressing/Tables/constraints/constr_pressing.sql

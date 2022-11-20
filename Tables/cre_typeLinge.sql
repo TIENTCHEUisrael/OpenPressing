@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS  TYPELINGE
 );
 
 
-@C:\OpenPressing\Tables\constraints\constr_typeLinge.sql
+@C:/OpenPressing/Tables/constraints/constr_typeLinge.sql

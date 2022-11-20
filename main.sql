@@ -20,7 +20,7 @@ PROMPT *************** PASSWORD FOR SYS ********************************* :
 DEFINE pass_sys= op
 PROMPT
 PROMPT *************** LOG PATH ***************************************** :
-DEFINE log_path = C:\
+DEFINE log_path = C:\OpenPressing
 PROMPT
 PROMPT *************** CONNECT STRING *********************************** :
 DEFINE connect_string     = //localhost:1521/xepdb1
@@ -42,7 +42,7 @@ CREATE USER op IDENTIFIED BY &pass;
 ALTER USER op DEFAULT TABLESPACE &tbs
               QUOTA UNLIMITED ON &tbs;
 
-ALTER USER op TEMPORARY TABLESPACE &ttbs;
+/*ALTER USER op TEMPORARY TABLESPACE &ttbs;*/
 
 GRANT CREATE SESSION, CREATE VIEW, ALTER SESSION, CREATE SEQUENCE TO op;
 GRANT CREATE SYNONYM, CREATE DATABASE LINK , UNLIMITED TABLESPACE TO op;
@@ -65,13 +65,13 @@ PROMPT
 -- create tables and constraint
 --
 
-@C:\OpenPressing\Tables\op_cre.sql
+@C:/OpenPressing/Tables/op_cre.sql
 
 -- 
 -- populate tables
 --
 
-@C:\OpenPressing\Insertions\op_popul.sql
+@C:/OpenPressing/Insertions/op_popul.sql
 
 PROMPT
 PROMPT ************* FINISH **********************************************
