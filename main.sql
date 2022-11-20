@@ -71,7 +71,7 @@ PROMPT
 -- populate tables
 --
 
-@C:/OpenPressing/Insertions/op_popul.sql
+--@C:/OpenPressing/Insertions/op_popul.sql
 
 PROMPT
 PROMPT ************* FINISH **********************************************
