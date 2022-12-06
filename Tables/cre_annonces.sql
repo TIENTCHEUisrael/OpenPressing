@@ -6,7 +6,6 @@ CREATE TABLE  ANNONCES
    ID_USER              char(10)                       ,
    ID_PRESSING          NUMBER(10)                    ,
    DESCRIPTION          varchar(255)                   ,
-   DUREE                timestamp                      
+   DUREE                timestamp,
+   PRIMARY KEY (ID_ANNOCES)                      
 );
-
-@C:/OpenPressing/Tables/constraints/constr_annonces.sql

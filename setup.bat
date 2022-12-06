@@ -1,2 +1,2 @@
 lsnrctl start LISTENER
-sqlplus sys/pass as sysdba @C:\\OpenPressing/main.sql
+sqlplus sys/pass as sysdba @C:\\OpenPressing\main.sql

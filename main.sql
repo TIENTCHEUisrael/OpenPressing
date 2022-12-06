@@ -62,16 +62,34 @@ PROMPT ************** CREATE TABLES, CONSTRAINTS, INSERTIONS *************
 PROMPT
 
 --
--- create tables and constraint
+-- DROP IF Exist tables
 --
 
-@C:/OpenPressing/Tables/op_cre.sql
+@op_drop.sql
+
+--
+-- create tables
+--
+
+@C:\OpenPressing\tables\op_cre.sql
+
+--
+-- create Constraint
+--
+
+@C:\OpenPressing\constraints\op_constraint.sql
 
 -- 
--- populate tables
+-- create Sequences
 --
 
---@C:/OpenPressing/Insertions/op_popul.sql
+--@C:\Users\ISRAEL\Documents\OpenPressing\sequences\op_sequences.sql
+
+-- 
+-- Populate Tables
+--
+
+@op_popul.sql
 
 PROMPT
 PROMPT ************* FINISH **********************************************

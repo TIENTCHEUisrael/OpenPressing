@@ -6,7 +6,6 @@ CREATE TABLE  PERSONNES
    NOM                  VARCHAR(255),
    EMAIL                VARCHAR(255),
    PHONENUMBER          VARCHAR(255),
-   PASSWORD             VARCHAR(255)                   
+   PASSWORD             VARCHAR(255),
+   PRIMARY KEY (ID_PERSONNE)                   
 );
-
-@C:/OpenPressing/Tables/constraints/constr_personnes.sql

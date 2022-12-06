@@ -8,5 +8,3 @@ CREATE TABLE  LINGECLIENT
    QUANTITE             NUMBER(10),
    IMAGE                varbinary(2000)
 );
-
-@C:/OpenPressing/Tables/constraints/constr_lingeClient.sql

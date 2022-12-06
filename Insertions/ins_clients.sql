@@ -1,1 +1,0 @@
-PROMPT ******************* POPUL CLIENTS TABLES *****************

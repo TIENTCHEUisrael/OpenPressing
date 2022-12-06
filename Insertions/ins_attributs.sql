@@ -1,1 +1,0 @@
-PROMPT ******************* POPUL ATTRIBUTS TABLES *****************

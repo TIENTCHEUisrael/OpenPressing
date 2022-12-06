@@ -7,7 +7,6 @@ create table BESOINSCLIENT
    ID_CLIENT            NUMBER(10)                    ,
    ID_PRESSING          NUMBER(10)                    ,
    BUDGET               double(10)                     ,
-   STATUT               varchar(255)                   
+   STATUT               varchar(255),
+   PRIMARY KEY (ID_BESOIN)                   
 );
-
-@C:/OpenPressing/Tables/constraints/constr_besoinclient.sql

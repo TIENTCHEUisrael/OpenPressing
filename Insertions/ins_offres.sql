@@ -1,1 +1,0 @@
-PROMPT ******************* POPUL OFFRES TABLES *****************

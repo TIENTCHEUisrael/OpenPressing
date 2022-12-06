@@ -7,5 +7,3 @@ CREATE TABLE OFFRES
    NOM                  VARCHAR(255),
    DESCRIPTION          VARCHAR(255)                   
 );
-
-@C:/OpenPressing/Tables/constraints/constr_offres.sql

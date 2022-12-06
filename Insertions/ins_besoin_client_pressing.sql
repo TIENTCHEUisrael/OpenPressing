@@ -1,1 +1,0 @@
-PROMPT ******************* POPUL BESOINCLIENTPRESSING TABLES *****************

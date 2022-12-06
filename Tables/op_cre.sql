@@ -1,44 +1,67 @@
-PROMPT **************** CREATION OF TABLES *****************
-PROMPT
+SET FEEDBACK 1
+SET NUMWIDTH 10
+SET LINESIZE 80
+SET TRIMSPOOL ON
+SET TAB OFF
+SET PAGESIZE 100
+SET ECHO OFF 
 
+PROMPT ************ Creating Adresse table *************
+@@cre_addresses
 
+PROMPT ************ Creating Annonce table *************
+@@cre_annonces
 
-@C:/OpenPressing/Tables/cre_addresses.sql
+PROMPT ************ Creating Attribut table ************
+@@cre_attributs
 
-@C:/OpenPressing/Tables/cre_annonces.sql
+PROMPT ************ Creating Besoin Client pressing table **************
+@@cre_besoin_client_pressing
 
-@C:/OpenPressing/Tables/cre_attributs.sql
+PROMPT ************ Creating Besoin client *************
+@@cre_besoinclient
 
-@C:/OpenPressing/Tables/cre_besoin_client_pressing.sql
+PROMPT ************ Creating client table **************
+@@cre_clients
 
-@C:/OpenPressing/Tables/cre_besoinclient.sql
+PROMPT ************ Creating linge client table ********
+@@cre_lingeClient
 
-@C:/OpenPressing/Tables/cre_clients.sql
+PROMPT ************ Creating offres table **************
+@@cre_offres
 
-@C:/OpenPressing/Tables/cre_lingeClient.sql
+PROMPT ************ Creating personnes table ***********
+@@cre_personnes
 
-@C:/OpenPressing/Tables/cre_offres.sql
+PROMPT ************ Creating personnesPhysique table ***
+@@cre_personnesp
 
-@C:/OpenPressing/Tables/cre_personnes.sql
+PROMPT *********** Creating pressing table *************
+@@cre_pressing
 
-@C:/OpenPressing/Tables/cre_personnesp.sql
+PROMPT *********** Creating privileges table ***********
+@@cre_privileges
 
-@C:/OpenPressing/Tables/cre_pressing.sql
+PROMPT *********** Creating prix table *****************
+@@cre_prix
 
-@C:/OpenPressing/Tables/cre_privileges.sql
+PROMPT *********** Creating promo table ****************
+@@cre_promo
 
-@C:/OpenPressing/Tables/cre_prix.sql
+PROMPT *********** Creating role table *****************
+@@cre_role
 
-@C:/OpenPressing/Tables/cre_promo.sql
+PROMPT *********** Creating service table **************
+@@cre_services
 
-@C:/OpenPressing/Tables/cre_role.sql
+PROMPT *********** Creating typeLinge table ************
+@@cre_typeLinge
 
-@C:/OpenPressing/Tables/cre_services.sql
+PROMPT *********** Creating type Service table *********
+@@cre_typeServices
 
-@C:/OpenPressing/Tables/cre_typeLinge.sql
+PROMPT *********** Creating utilisateur table **********
+@@cre_utilisateur
 
-@C:/OpenPressing/Tables/cre_typeServices.sql
-
-@C:/OpenPressing/Tables/cre_utilisateur.sql
-
-@C:/OpenPressing/Tables/cre_valeurAttribut.sql
+PROMPT *********** Creating valeurAttribut table *******
+@@cre_valeurAttribut

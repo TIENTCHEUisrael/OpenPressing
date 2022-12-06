@@ -1,7 +1,7 @@
 PROMPT ******************* CREATE PRICE TABLES *****************
 CREATE TABLE   PRIX 
 (
-   MONTANT              double(10) 
+   ID_PRIX NuMBER (10) NOT NULL,
+   MONTANT              double(10),
+   PRIMARY KEY (ID_PRIX) 
 );
-
-@C:/OpenPressing/Tables/constraints/constr_prix.sql
