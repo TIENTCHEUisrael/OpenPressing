@@ -83,14 +83,17 @@ PROMPT
 -- create Sequences
 --
 
---@C:\Users\ISRAEL\Documents\OpenPressing\sequences\op_sequences.sql
+--@C:\OpenPressing\sequences\op_sequences.sql
 
 -- 
 -- Populate Tables
 --
 
-@op_popul.sql
+@C:\OpenPressing\populate\op_popul.sql
 
+PROMPT *******************************************************************
+SELECT * FROM UTILISATEUR;
+SELECT * FROM CLIENTS; 
 PROMPT
 PROMPT ************* FINISH **********************************************
 PROMPT
