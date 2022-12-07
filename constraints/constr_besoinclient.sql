@@ -1,6 +1,3 @@
-ALTER TABLE BESOINSCLIENT
-    ADD constraint pk_primary_besoinclient PRIMARY KEY(ID_BESOIN);
-
 alter table BESOINSCLIENT
    add constraint FK_BESOINSC_REFERENCE_UTILISAT foreign key (ID_USER)
       references UTILISATEUR (ID_USER);

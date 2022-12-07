@@ -4,6 +4,6 @@ CREATE TABLE OFFRES
 (
    ID_SERVICES          NUMBER(10),
    ID_TYPELINGE         NUMBER(10),
-   NOM                  VARCHAR(255),
-   DESCRIPTION          VARCHAR(255)                   
+   NOM                  VARCHAR2(255),
+   DESCRIPTION          VARCHAR2(255)                   
 );

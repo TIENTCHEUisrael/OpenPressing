@@ -4,6 +4,14 @@ CREATE TABLE  PERSONNESPHYSIQUE
 (
    ID_PERSPHY           NUMBER(10),
    ID_PERSONNE          NUMBER(10),
-   IMAGE                varbinary(2000),
-   PRIMARY KEY (ID_PERSPHY)
+   IMAGE                VARCHAR2(2000)
 );
+
+
+CREATE UNIQUE INDEX personp_id_pk
+ON PERSONNESPHYSIQUE (ID_PERSPHY) ;
+
+
+ALTER TABLE PERSONNESPHYSIQUE
+ADD ( CONSTRAINT     personp_id_pk
+                     PRIMARY KEY (ID_PERSPHY));
