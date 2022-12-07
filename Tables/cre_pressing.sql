@@ -10,10 +10,4 @@ CREATE TABLE PRESSINGS
    FERMETURE            VARCHAR2(255)  
 );
 
-CREATE UNIQUE INDEX pressing_id_pk
-ON PRESSINGS (ID_PRESSING) ;
-
-
-ALTER TABLE PRESSINGS
-ADD ( CONSTRAINT     pressing_id_pk
-                     PRIMARY KEY (ID_PRESSING));
+@@C:\OpenPressing\tables\primarykey\_pressing

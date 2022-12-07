@@ -6,11 +6,4 @@ CREATE TABLE  ATTRIBUTS
    ID_TYPESERVICE        NUMBER(10),
    CARACTERISTIQUE      VARCHAR2(255)              
 );
-
-CREATE UNIQUE INDEX att_id_pk
-ON ATTRIBUTS (ID_ATTRIBUT) ;
-
-
-ALTER TABLE ATTRIBUTS
-ADD ( CONSTRAINT     att_id_pk
-                     PRIMARY KEY (ID_ATTRIBUT));
+@@C:\OpenPressing\tables\primarykey\_attributs

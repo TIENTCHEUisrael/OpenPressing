@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX typelinge_id_pk
+ON TYPELINGE (ID_TYPELINGE) ;
+
+
+ALTER TABLE TYPELINGE
+ADD ( CONSTRAINT     typelinge_id_pk
+                     PRIMARY KEY (ID_TYPELINGE));

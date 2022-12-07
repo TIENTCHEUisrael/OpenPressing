@@ -10,10 +10,4 @@ create table BESOINSCLIENT
    STATUT               varchar2(255)                  
 );
 
-CREATE UNIQUE INDEX besc_id_pk
-ON BESOINSCLIENT (ID_BESOIN) ;
-
-
-ALTER TABLE BESOINSCLIENT
-ADD ( CONSTRAINT     besc_id_pk
-                     PRIMARY KEY (ID_BESOIN));
+@@C:\OpenPressing\tables\primarykey\_besoinclient

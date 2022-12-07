@@ -7,11 +7,4 @@ CREATE TABLE  PERSONNESPHYSIQUE
    IMAGE                VARCHAR2(2000)
 );
 
-
-CREATE UNIQUE INDEX personp_id_pk
-ON PERSONNESPHYSIQUE (ID_PERSPHY) ;
-
-
-ALTER TABLE PERSONNESPHYSIQUE
-ADD ( CONSTRAINT     personp_id_pk
-                     PRIMARY KEY (ID_PERSPHY));
+@@C:\OpenPressing\tables\primarykey\_personnesp

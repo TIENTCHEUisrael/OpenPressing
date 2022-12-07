@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX typeservice_id_pk
+ON TYPESERVICES (ID_TYPESERVICE) ;
+
+
+ALTER TABLE TYPESERVICES
+ADD ( CONSTRAINT     typeservice_id_pk
+                     PRIMARY KEY (ID_TYPESERVICE));

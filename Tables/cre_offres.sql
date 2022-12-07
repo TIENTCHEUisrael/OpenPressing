@@ -7,3 +7,5 @@ CREATE TABLE OFFRES
    NOM                  VARCHAR2(255),
    DESCRIPTION          VARCHAR2(255)                   
 );
+
+@@C:\OpenPressing\tables\primarykey\_offres

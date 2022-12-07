@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX valeurattribut_id_pk
+ON VALEURATTRIBUTS (ID_ATTRIBUT) ;
+
+
+ALTER TABLE VALEURATTRIBUTS
+ADD ( CONSTRAINT     valeurattribut_id_pk
+                     PRIMARY KEY (ID_ATTRIBUT));

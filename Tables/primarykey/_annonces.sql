@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX ann_id_pk
+ON ANNONCES (ID_ANNOCES) ;
+
+
+ALTER TABLE ANNONCES
+ADD ( CONSTRAINT     ann_id_pk
+                     PRIMARY KEY (ID_ANNOCES));

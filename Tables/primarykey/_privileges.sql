@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX privilege_id_pk
+ON PRIVILEGES (ID_PRIVILEGE) ;
+
+
+ALTER TABLE PRIVILEGES
+ADD ( CONSTRAINT     privilege_id_pk
+                     PRIMARY KEY (ID_PRIVILEGE));

@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX pressing_id_pk
+ON PRESSINGS (ID_PRESSING) ;
+
+
+ALTER TABLE PRESSINGS
+ADD ( CONSTRAINT     pressing_id_pk
+                     PRIMARY KEY (ID_PRESSING));

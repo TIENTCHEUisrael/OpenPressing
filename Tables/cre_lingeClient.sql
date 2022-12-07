@@ -8,3 +8,5 @@ CREATE TABLE  LINGECLIENT
    QUANTITE             NUMBER(10),
    IMAGE                VARCHAR2(255)
 );
+
+@@C:\OpenPressing\tables\primarykey\_lingeClient
