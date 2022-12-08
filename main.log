@@ -1,0 +1,2074 @@
+
+Utilisateur supprimé.
+
+
+***************  CREATE USER op **********************************
+
+
+Utilisateur créé.
+
+
+Utilisateur modifié.
+
+
+Autorisation de privilèges (GRANT) acceptée.
+
+
+Autorisation de privilèges (GRANT) acceptée.
+
+
+************** CONNECT TO USER op ********************************
+
+Connecté.
+
+Autorisation de privilèges (GRANT) acceptée.
+
+Connecté.
+
+************** CREATE TABLES, CONSTRAINTS, INSERTIONS *************
+
+************* DROP TABLE ***************
+drop table  ADRESSES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  ANNONCES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  ATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  BESOINSCLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  BESOIN_CLIENT_PRESSINGS
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  PERSONNES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  PRESSINGS
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  PRIVILEGES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  TYPELINGE
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+drop table  VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00942: Table ou vue inexistante 
+
+
+******************* CREATE ADRESSES TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE ANNONCES TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE ATTRIBUTS TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE BESOIN_CLIENT_PRESSINGS TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE BESOINSCLIENT TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE CLIENTS TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+****************** CREATE LINGE CLIENT TABLE ****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+*************** CREATE OFFRES TABLES ******************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+**************** CREATE PERSONNES TABLES *************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+************ CREATE PERSONNESPHYSIQUE TABLE ***********
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE PRESSING TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE PRIVILEGES TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE PRICE TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE PROMO TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE ROLES TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE SERVICES TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE TYPELINGE TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE TYPESERVICES TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+******************* CREATE UTILISATEUR TABLES *****************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+***************** CREATE VALEUR ATTRIBUT TABLE **************************
+
+Table créée.
+
+
+Index créé.
+
+
+Table modifiée.
+
+************ Creating Constraint **************
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+CONSTRAINT FK_SERVICE
+           *
+ERREUR à la ligne 3 :
+ORA-02264: nom déjà utilisé par une contrainte existante
+
+
+
+Table modifiée.
+
+
+Table modifiée.
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO CLIENTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO LINGECLIENT
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO OFFRES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+VALUES (1,"Driscoll Simpson","aliquet.proin@google.com","1-836-297-7987","WKE35BVR7CK")
+                                                                         *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (2,"Lionel Mcgowan","libero.dui@icloud.net","1-204-521-1535","SVO87XJF2PH")
+                                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (3,"Leonard Mcgee","accumsan.convallis@aol.edu","(331) 526-1629","VJV83WTQ1YU")
+                                                                        *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (4,"Jolie Vance","ut@hotmail.org","1-205-839-4567","GYV51JBE3FS")
+                                                          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (5,"Leah Graves","et.arcu.imperdiet@protonmail.net","1-844-560-6323","GXM24BKN5ET")
+                                                                            *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (6,"Keane Mercado","sed.eu@protonmail.com","1-547-612-2553","REG12MGB2LA")
+                                                                   *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (7,"Ray Lynn","ornare.sagittis@aol.org","1-266-666-1665","TMU60JDT3QE")
+                                                                *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (8,"Hermione Murray","ornare@protonmail.edu","1-812-971-5214","QHH39DJG2XB")
+                                                                     *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (9,"Dale Prince","in@protonmail.com","(158) 588-8533","OEC07BUM4WQ")
+                                                             *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (10,"Hoyt Dunlap","egestas.fusce@google.net","1-635-829-7930","DIQ31GBP2JD")
+                                                                     *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (11,"Arthur Simon","morbi.quis@outlook.com","(365) 712-9418","DFP19PNQ8QM")
+                                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (12,"Ulla Mcgowan","dui.lectus@icloud.couk","(701) 414-6246","WIN36LAT3KU")
+                                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (13,"Raven Woods","enim.nisl.elementum@hotmail.couk","1-676-158-9227","CQZ55MGQ9FL")
+                                                                             *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (14,"Hiroko Griffith","tortor.integer.aliquam@hotmail.edu","(851) 509-3210","PAO97CQR4DX")
+                                                                                   *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (15,"Hashim Drake","dictum.ultricies@yahoo.couk","1-942-857-3754","YND43XBS2XE")
+                                                                         *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (16,"Donovan Stone","lobortis.mauris.suspendisse@icloud.ca","1-237-688-5689","HIF78YOL6QP")
+                                                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (17,"Cedric Hurst","sapien.molestie@yahoo.com","1-128-792-1344","IVY17EUR7PX")
+                                                                       *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (18,"Flavia Lott","leo.elementum@icloud.edu","(793) 495-5346","KNB21MWG0BV")
+                                                                     *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (19,"Jakeem Mcmahon","odio@outlook.couk","1-537-517-6446","QMC42GEN3AC")
+                                                                 *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (20,"Vielka Vega","lacinia.sed@aol.com","1-732-987-8525","ETJ84WDI1QN")
+                                                                *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PERSONNESPHYSIQUE
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+VALUES (1,9,"Libero Consulting","Allein","11:47 PM","3:04 PM")
+                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (2,5,"Leo Industries","Cartagena","3:43 AM","3:08 AM")
+                                                   *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (3,5,"At Limited","Jayapura","9:50 PM","1:33 AM")
+                                              *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (4,6,"Consequat Incorporated","Jhang","2:35 AM","6:57 AM")
+                                                       *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (5,9,"Ut Corporation","VÃ¤nersborg","12:44 PM","7:39 PM")
+                                                        *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (6,5,"Ante Vivamus LLC","Baguio","3:33 PM","9:23 AM")
+                                                  *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (7,1,"Sagittis Nullam Consulting","Erpion","9:22 PM","4:49 AM")
+                                                            *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (8,6,"Ligula Nullam PC","Leticia","8:55 PM","2:48 PM")
+                                                   *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (9,1,"Urna Incorporated","Tanglin","4:22 PM","6:29 PM")
+                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (10,3,"Urna Industries","Novosibirsk","4:37 AM","6:28 PM")
+                                                       *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (11,7,"Amet Incorporated","Tarragona","8:30 AM","2:40 AM")
+                                                       *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (12,9,"Donec Inc.","RibeirÃ£o Preto","2:29 AM","2:49 AM")
+                                                        *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (13,1,"Nec Incorporated","Lourdes","4:14 PM","6:16 AM")
+                                                    *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (14,9,"In Dolor Corp.","Santander de Quilichao","7:46 PM","11:58 PM")
+                                                                 *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (15,9,"Nunc Ltd","LÃ o Cai","3:11 AM","10:25 AM")
+                                               *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (16,2,"Nisl Maecenas Malesuada LLP","Muiden","11:42 AM","2:20 AM")
+                                                               *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (17,8,"Vel Convallis Foundation","Makati","1:05 AM","4:33 AM")
+                                                           *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (18,4,"Et Netus Limited","Pradamano","10:49 PM","12:40 PM")
+                                                       *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (19,6,"Ac Corporation","Piedras Negras","6:46 AM","5:59 AM")
+                                                         *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (20,3,"Interdum Curabitur LLP","Kerikeri","10:14 AM","5:32 AM")
+                                                            *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PRIX
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO PROMO
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO ROLES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO SERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+VALUES (1,"292-5939 Felis. Road")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (2,"P.O. Box 168, 4182 Blandit St.")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (3,"Ap #549-2326 Dolor St.")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (4,"570-4640 Augue Rd.")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (5,"6535 Sit Street")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (6,"6541 Dolor. Ave")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (7,"170-3713 Lobortis, Av.")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (8,"198-9485 Tellus Road")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (9,"P.O. Box 451, 1547 Pellentesque Av.")
+          *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+VALUES (10,"106-9838 Curabitur Rd.")
+           *
+ERREUR à la ligne 2 :
+ORA-00984: un nom de colonne n'est pas autorisé ici
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO TYPESERVICES
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO UTILISATEUR
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+INSERT INTO VALEURATTRIBUTS
+            *
+ERREUR à la ligne 1 :
+ORA-00947: nombre de valeurs insuffisant
+
+
+*******************************************************************
+
+aucune ligne sélectionnée
+
+
+aucune ligne sélectionnée
+
+
+************* FINISH **********************************************
+
