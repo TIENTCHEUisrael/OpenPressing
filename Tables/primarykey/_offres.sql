@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX offre_id_pk
+ON OFFRES (ID_OFFRE) ;
+
+
+ALTER TABLE OFFRES
+ADD ( CONSTRAINT     offre_id_pk
+                     PRIMARY KEY (ID_OFFRE));

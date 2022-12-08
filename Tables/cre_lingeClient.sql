@@ -3,6 +3,7 @@ PROMPT ****************** CREATE LINGE CLIENT TABLE ****************
 
 CREATE TABLE  LINGECLIENT 
 (
+   ID_LINGECLIENT       NUMBER(10),
    ID_TYPELINGE         NUMBER(10),
    ID_BESOIN            NUMBER(10),
    QUANTITE             NUMBER(10),

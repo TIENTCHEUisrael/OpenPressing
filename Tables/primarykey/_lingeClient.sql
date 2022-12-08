@@ -1,0 +1,7 @@
+CREATE UNIQUE INDEX lingeClient_id_pk
+ON LINGECLIENT (ID_LINGECLIENT) ;
+
+
+ALTER TABLE LINGECLIENT
+ADD ( CONSTRAINT     lingeClient_id_pk
+                     PRIMARY KEY (ID_LINGECLIENT));

@@ -1,6 +1,7 @@
 PROMPT ******************* CREATE ROLES TABLES *****************
 CREATE TABLE   ROLES
 (
+   ID_ROLE              NUMBER(10),
    ID_PRESSING          NUMBER(10) ,
    ID_USER             NUMBER(10),
    NOM                  VARCHAR2(255)
