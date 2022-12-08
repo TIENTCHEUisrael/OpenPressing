@@ -89,7 +89,7 @@ PROMPT
 -- Populate Tables
 --
 
-@C:\OpenPressing\populate\op_popul.sql
+-- @C:\OpenPressing\populate\op_popul.sql
 
 PROMPT *******************************************************************
 SELECT * FROM UTILISATEUR;

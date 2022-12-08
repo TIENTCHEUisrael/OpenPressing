@@ -1,0 +1,1 @@
+PROMPT *************** INSERTION IN BESOINCLIENT *****************

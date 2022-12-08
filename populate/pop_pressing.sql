@@ -1,3 +1,5 @@
+PROMPT *************** INSERTION IN PRESSINGS *****************
+
 INSERT INTO PRESSINGS
 VALUES (1,9,"Libero Consulting","Allein","11:47 PM","3:04 PM");
 INSERT INTO PRESSINGS

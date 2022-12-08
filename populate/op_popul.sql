@@ -1,3 +1,5 @@
+PROMPT *********************** INSERTION TABLE *****************
+
 @@pop_addresses
 
 @@pop_annonces

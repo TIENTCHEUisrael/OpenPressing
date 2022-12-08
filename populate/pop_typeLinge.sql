@@ -1,3 +1,4 @@
+PROMPT *************** INSERTION IN TYPELINGE *****************
 
 INSERT INTO TYPELINGE
 VALUES (1,"292-5939 Felis. Road");

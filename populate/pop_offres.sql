@@ -1,3 +1,5 @@
+PROMPT *************** INSERTION IN OFFRES *****************
+
 INSERT INTO OFFRES
 VALUES (1,8,"Abdul Rowland","223-2316 Aliquam Avenue");
 INSERT INTO OFFRES

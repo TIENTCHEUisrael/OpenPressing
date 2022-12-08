@@ -1,3 +1,5 @@
+PROMPT *************** INSERTION IN PERSONNES *****************
+
 INSERT INTO PERSONNES
 VALUES (1,"Driscoll Simpson","aliquet.proin@google.com","1-836-297-7987","WKE35BVR7CK");
 INSERT INTO PERSONNES

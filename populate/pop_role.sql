@@ -1,3 +1,5 @@
+PROMPT *************** INSERTION IN ROLE *****************
+
 INSERT INTO ROLES
 VALUES (7,6,"Munster");
 INSERT INTO ROLES

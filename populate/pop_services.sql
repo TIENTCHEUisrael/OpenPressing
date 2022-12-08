@@ -1,3 +1,5 @@
+PROMPT *************** INSERTION IN SERVICES *****************
+
 INSERT INTO SERVICES
 VALUES (1,6,"P.O. Box 569, 413 Id Rd.");
 INSERT INTO SERVICES

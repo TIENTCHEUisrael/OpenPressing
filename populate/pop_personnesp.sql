@@ -1,3 +1,5 @@
+PROMPT *************** INSERTION IN PERSONNEPHYSIQUE *****************
+
 INSERT INTO PERSONNESPHYSIQUE
 VALUES (1,1,"magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna.");
 INSERT INTO PERSONNESPHYSIQUE
